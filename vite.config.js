@@ -45,7 +45,7 @@ export default defineConfig(({ mode }) => {
     },
     server: {
       host: 'localhost',
-      port: 8080,
+      port: 8079,
       disableHostCheck: true,
       proxy: isNoMock ? commonProxy : null
     },

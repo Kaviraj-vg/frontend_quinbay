@@ -1,0 +1,21 @@
+{
+    "electronics": [
+        { "name": "Camera", "img": "https://i.pinimg.com/736x/11/2c/a0/112ca0f6840699f4835f1685d8b35be0.jpg", "price": 500 },
+        { "name": "Smartphone", "img": "https://itronics.in/wp-content/uploads/2021/09/iphone-13-pink-select-2021.png", "price": 800 },
+        { "name": "Laptop", "img": "https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/HQ2W2_AV3?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1682103253609", "price": 1200 },
+        { "name": "Headphones", "img": "https://m.media-amazon.com/images/I/61+R5rOj9+L.jpg", "price": 150 }
+
+    ],
+    "fashion": [
+        { "name": "T-shirt", "img": "https://nobero.com/cdn/shop/files/aloe-green_ee108460-95d3-44ff-b4a0-cf0880393cf3.jpg?v=1712412662", "price": 25 },
+        { "name": "Jeans", "img": "https://offduty.in/cdn/shop/products/ff2def08-93ae-4984-89e8-8352dea110da_540x.jpg?v=1676893036", "price": 50 },
+        { "name": "Sneakers", "img": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/24592342/2024/9/26/42ec633e-31ea-464e-a582-2a470c2fad051727353600739-Red-Tape-Men-Colourblocked-Lace-Ups-Sneakers-984172735360029-1.jpg", "price": 70 },
+        { "name": "Jacket", "img": "https://m.media-amazon.com/images/I/71E7c09iTdL._AC_UY1100_.jpg", "price": 100 }
+    ],
+    "home": [
+        { "name": "Microwave", "img": "https://m.media-amazon.com/images/I/71xnSj5K+rL.jpg", "price": 200 },
+        { "name": "Vacuum Cleaner", "img": "https://static.digit.in/default/canister-bd9e3b05e7.jpeg", "price": 300 },
+        { "name": "Air Purifier", "img": "https://ik.imagekit.io/anscommerce/image/tr:e-usm-2-2-0.8-0.024,dpr-3,h-228,w-228,q-85,cm-pad_resize/data/philips/19sep2024/AC0950.jpg", "price": 250 },
+        { "name": "Washing Machine", "img": "https://media.croma.com/image/upload/v1655370905/Croma%20Assets/Large%20Appliances/Washers%20and%20Dryers/Images/253429_jx9ma4.png", "price": 500 }
+    ]
+}
