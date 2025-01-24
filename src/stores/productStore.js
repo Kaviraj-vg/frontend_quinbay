@@ -16,6 +16,7 @@ export const productStore = defineStore("productStore", {
         console.log(this.products)
  
       // this.products = productsData;
+      //uyguygu
     },    
   },
   getters: {
